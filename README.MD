@@ -18,7 +18,7 @@ Este es un sistema de punto de venta desarrollado con Next.js, NestJS, Prisma y 
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/Ezzz-Lui/Point-Sales-Stack.git
     ```
 2. Instala las dependencias:
     ```bash
