@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash - Sistemas Linux
 
 # Clonar el frontend
 if [ ! -d "frontend" ]; then
